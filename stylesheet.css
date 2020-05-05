@@ -1,12 +1,14 @@
 @font-face {
   font-family: "Axis Bold";
-  src: url("/fonts/Axis Extrabold.otf");
+  src: url('fonts/Axis Extrabold.woff2') format('woff2'),
+  url('fonts/Axis Extrabold.otf') format('otf'),
+  url('fonts/Axis Extrabold.woff') format('woff');
   }
 
 html {
   font-size: 62.5%;
   box-sizing: border-box;
-  font-family: 'Axis Bold'
+  font-family: 'Axis Bold', sans-serif;
 }
 
 *, *::before, *::after {
