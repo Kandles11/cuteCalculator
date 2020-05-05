@@ -1,8 +1,8 @@
 @font-face {
   font-family: "Axis Bold";
-  src: url('fonts/Axis Extrabold.woff2') format('woff2'),
-  url('fonts/Axis Extrabold.otf') format('otf'),
-  url('fonts/Axis Extrabold.woff') format('woff');
+  src: url('../cuteCalculator/fonts/Axis Extrabold.woff2') format('woff2'),
+  url('../cuteCalculator/fonts/Axis Extrabold.otf') format('otf'),
+  url('../cuteCalculator/fonts/Axis Extrabold.woff') format('woff');
   }
 
 html {
